@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "palm-tree-png-30(2)",
+  "identifier": "texture:7089-88da35bd-25b7-44f4-99a9-b2a7c46ca3d9",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "811693f78b894434b38b95aead06feac",
+  "assetLocator": "textures/palm-tree-png-30(2).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 750,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 516,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "811693f78b894434b38b95aead06feac",
+      "colorCount": 51960,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 4.980622031708665,
+      "pixelsHigh": 750,
+      "pixelsWide": 516
+    }
+  ]
+}
